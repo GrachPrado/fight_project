@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fight_project/static/css/main.586942dd.css",
+    "main.js": "/fight_project/static/js/main.c0528165.js",
+    "index.html": "/fight_project/index.html",
+    "main.586942dd.css.map": "/fight_project/static/css/main.586942dd.css.map",
+    "main.c0528165.js.map": "/fight_project/static/js/main.c0528165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586942dd.css",
+    "static/js/main.c0528165.js"
+  ]
+}
